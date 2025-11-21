@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SocketClientDemo/SocketClientDemo.csproj" />
+  <Project Path="SocketDemo/SocketServerDemo.csproj" />
+</Solution>
